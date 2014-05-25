@@ -1,0 +1,20 @@
+{
+  "port": 80,
+  "appOptions": {
+    "host.answering_the_request.com": {
+      "host": "http://the.target_host.com/target/path",
+      "function": "proxy"
+      },
+    "a-host.youwant": {
+      "host": "http://the_url.to_redirect_to.com/path/to/redirect/to",
+      "code": 301,
+      "function": "redirect"
+      },
+    "a-host.youwant": {
+      "host": "http://the_url.to_redirect_to.com/path/to/redirect/to",
+      "code": 301,
+      "function": "redirect"
+      }
+  }
+}
+
