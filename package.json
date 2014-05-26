@@ -1,12 +1,12 @@
 {
-  "name": "mofo_http_manipulator",
+  "name": "http_helper",
   "version": "0.0.3",
   "author": "JP Schneider jdotpz",
-  "description": "A http manipulator cobbled together for use in MoFo infra, with code from git://github.com/pksunkara/node-redirect.git",
+  "description": "A http helper cobbled together for use in MoFo infra",
   "main": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jdotpz/mofo_http_manipulator.git"
+    "url": "git://github.com/mozilla/http_helper.git"
   },
   "keywords": [
     "redirect",
@@ -15,13 +15,10 @@
     "proxy",
     "http"
   ],
-  "homepage": "http://github.com/jdotpz/mofo_http_manipulator",
-  "scripts": {
-    "start": "./server"
-  },
+  "homepage": "http://github.com/mozilla/http_helper",
   "contributors": [
     {
-      "name": "JP Schneider, Pavan Kumar Sunkara, Pomax",
+      "name": "JP Schneider, Pomax",
       "email": "jp@mozillafoundation.org"
     }
   ],
@@ -37,12 +34,12 @@
     "node": ">=0.6"
   },
   "bugs": {
-    "url": "https://github.com/jdotpz/mofo_http_manipulator/issues"
+    "url": "https://github.com/mozilla/http_helper/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/pksunkara/node-redirect/raw/master/LICENSE"
+      "url": "https://github.com/mozilla/http_helper/raw/master/LICENSE"
     }
   ],
   "analyze": false

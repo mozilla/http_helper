@@ -27,7 +27,8 @@ from www.yourdomain.com, we would add the following block in config.json:
 
 
 # RUNNING THIS APPLICATION
-Simply run node ./bin/server.js
+Simply run:
+   node ./bin/server.js
 
 
 # FURTHER INFORMATION
@@ -38,7 +39,7 @@ Bugs/Requests: https://www.github.com/mozilla/http_helper/issues
 newrelic.js or config settings and it will just work.
 
 * Messina is an amazing GELF log utility written by Brian Brennan (brianloveswords).  To output
-to your own GELF facility, set the following env variables
+to your own GELF facility, set the following env variables while running node.
 
 export GRAYLOG_HOST="address.to_your_logging_server.com"    #defaults to localhost
 export GRAYLOG_PORT=12201                    #defaults to 12201
