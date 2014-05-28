@@ -24,12 +24,12 @@
   ],
   "dependencies": {
     "nconf": "0.6.x",
-    "newrelic": "*",
+    "newrelic": "1.6.0",
     "messina": "0.1.1",
-    "habitat": "*",
-    "express": "*",
-    "helmet": "*",
-    "request": "*"
+    "habitat": "~1.1.0",
+    "express": "4.3.1",
+    "helmet": "~0.2.1",
+    "request": "2.360.0"
   },
   "devDependencies": {},
   "engines": {
