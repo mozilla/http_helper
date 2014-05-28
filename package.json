@@ -28,6 +28,7 @@
     "messina": "0.1.1",
     "habitat": "*",
     "express": "*",
+    "helmet": "*",
     "request": "*"
   },
   "devDependencies": {},
