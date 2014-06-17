@@ -3,7 +3,7 @@
 # OVERVIEW
 A simple node.js redirector and proxy application.  Given a config file full of
 redirect and proxy mappings, this application will match incoming HOST headers
-and take the appropriate action by 301/302 redirecting or proxying.....
+and take the appropriate action by 301/302 redirecting or proxying......
 
 This is useful for redirecting www to root domains, redirecting old domains
 to new domains, proxying for SSL from non-SSL sources on AWS.
