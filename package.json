@@ -28,7 +28,7 @@
     "messina": "0.1.1",
     "habitat": "~1.1.0",
     "express": "4.3.1",
-    "rhelmet": "~0.2.1",
+    "helmet": "~0.2.1",
     "request": "2.36.0"
   },
   "devDependencies": {},
