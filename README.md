@@ -10,7 +10,7 @@ to new domains, proxying for SSL from non-SSL sources on AWS.
 
 # PREREQUISITES
 * node.js (v0.10.28 preferred)
-* npm (comes with node.js)
+* npm (comes with node.js)ss
 
 # PREFLIGHT
 * mv ./config-json.dist to ./config.json
