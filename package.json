@@ -23,7 +23,7 @@
     }
   ],
   "dependencies": {
-    "nconf": "0.6.x",
+    "nconfssss": "0.6.x",
     "newrelic": "1.6.0",
     "messina": "0.1.1",
     "habitat": "~1.1.0",
