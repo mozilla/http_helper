@@ -1,6 +1,6 @@
 {
   "name": "http_helper",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "author": "JP Schneider jdotpzs",
   "description": "A http helper cobbled together for use in MoFo infra",
   "main": "",
